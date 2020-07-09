@@ -15,12 +15,15 @@ Download WAMP here:<a href="https://bitnami.com/stack/wamp/installer">Download h
 <hr>
 <h2>Souce Code Editor to use</h2>
 For Beginners to understand this code I would suggest to use Visual Studio Code Editor which is open source, cross-platform code-editor builted by Microsoft.
+<br>
 Download Visual Studio Code from here:<a href="https://code.visualstudio.com">Download link</a>
 <br>
-You can also use Sublime Text Editor or Atom for instance
+You can also use Sublime Text Editor or Atom for instance.
+<br>
 Download Sublime Text Editor from here:<a href="https://www.sublimetext.com/3">Download link</a>
 <hr>
 <h2>Contact Me:</h2>
 If you have any suggestion for me you can contact me at yadavabhiindia@gmail.com
+<br>
 Thanks for reading this article.
 </p>
