@@ -25,6 +25,7 @@ Download Sublime Text Editor from here: <a href="https://www.sublimetext.com/3">
 <h2>Contact Me:</h2>
 If you have any suggestion for me you can contact me at yadavabhiindia@gmail.com
 <br>
-For more information visit: <a href="https://php.net">PHP.net</a>
+For more information visit: <a href="https://php.net">Official Site of PHP</a>
+<br>
 Thanks for reading this article.
 </p>
